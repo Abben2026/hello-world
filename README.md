@@ -3,6 +3,21 @@
 
 这里修改的是分支代码的readme.md文件。 用于验证分支如何合入主干。
 
-#这里开始第二次刷新 begin
+#第二次刷新 begin
+
+new info
+
 bash 命令
-# end
+
+
+#标题描述
+
+name: solution-test-spec-analyzer
+
+version: 1.0
+
+#角色
+
+解决方案架构师
+
+#end
